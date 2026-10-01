@@ -15,6 +15,12 @@ Upload a textbook chapter as a PDF and LearnPilot turns it into:
 - **A personal learning library**
 - **A guided lesson workflow**
 
+## Repository Note
+
+This repository is the continuation of the original LearnPilot project, previously developed and published under the `Im-orbitt` GitHub account.
+
+The original repository is no longer actively maintained, and development has moved to this repository under the `itz-orbitt` GitHub account. The project history has been preserved.
+
 ## Features
 
 ### Smart Notes
